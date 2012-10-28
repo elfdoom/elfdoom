@@ -1,0 +1,1 @@
+sass: bundle exec sass --watch --style compact app/assets/stylesheets/:public/stylesheets/
